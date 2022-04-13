@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32104.313
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlwaysOnTopper", "AlwaysOnTopper.csproj", "{301C45D6-F59A-4201-BB12-B1CF78F8FEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301C45D6-F59A-4201-BB12-B1CF78F8FEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301C45D6-F59A-4201-BB12-B1CF78F8FEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301C45D6-F59A-4201-BB12-B1CF78F8FEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301C45D6-F59A-4201-BB12-B1CF78F8FEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C534326-90A5-4B96-8773-7C4EDF786F7B}
+	EndGlobalSection
+EndGlobal
